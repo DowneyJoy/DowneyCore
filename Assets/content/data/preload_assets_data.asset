@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0a47e5a2ab8c487b85b08dc99f0204c1, type: 3}
+  m_Name: preload_assets_data
+  m_EditorClassIdentifier: 
+  entries:
+  - key: assets/sprites/Star.png
+    value: {fileID: 2800000, guid: f40d507025c45484b824496dd3502527, type: 3}
+    type: 2
+  - key: assets/sprites/Heart Filled.png
+    value: {fileID: 2800000, guid: de20494770da0ff458e71f8726292946, type: 3}
+    type: 2
+  - key: assets/prefabs/pawn.prefab
+    value: {fileID: 3777907197524890406, guid: bfc7d791d0016ea4c8788521c5a70cf4, type: 3}
+    type: 1

@@ -1,0 +1,14 @@
+[
+  {
+    "type": 2,
+    "key": "assets/sprites/Star.png"
+  },
+  {
+    "type": 2,
+    "key": "assets/sprites/Heart Filled.png"
+  },
+  {
+    "type": 1,
+    "key": "assets/prefabs/pawn.prefab"
+  }
+]
